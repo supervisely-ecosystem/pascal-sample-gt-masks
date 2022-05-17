@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 343,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58741180,
+            "classId": 152357,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "aeroplane",
+            "bitmap": {
+                "data": "eJwBRQO6/IlQTkcNChoKAAAADUlIRFIAAAHfAAAAgQEDAAAAuz0iKAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAALtSURBVHicxdlBspwgEABQKarikhwgFZNzJPXJLpf4h8gBUoGjeYwszeov4/Iv5g8ZRBGQphtJlb2yxnlDgw042nWEYJryLQhPDZjfWvC9AfeXYdHS5yY8XIZlE35twOoybK7CzMwXYX4Z7s10ERYteLgMSzNehNVl2LRhfdoyEuYv43n8PT97OAULY8zvs1g9cG5ce2NQ21lrMnsDBfcLzswBQcDS4eM+TsDcGKDpIfODSfQbPjRThefkjMSx8Di9qgQ87DjZmVQVTipF5S5+mtwe8ZezlZMmBzVdi8NOMgI2UUxVmMfYRGewGwOW4Nmf6XHcJ3ivlDPYA3EC+6ZP4W2Ih+NUwfFWKefwWikSx+KI10oBMXsuYde0gvDjD9MPGDukciuqtW/PnRphvBSpyWNp81qTG7L4FcLrRqBcCeTxo1JYDqt15jB3DsC3BY8xFcbXn1h+Jd/nh+MHbMJPlgUuUySu6RQvKe794PaapIuBj5cIu2k/xz+mQRwlKQ/W9uKeriRRaJ+ijWSC2sUCx2odhS6JoUQd3kY0s/Wg2B8fLXilVixKNt6qkA4cozjaPsasRcdsiQmwSK/LFpwZe8ygxftcWPmLtW2jtM1iuHhPg4xX+X5IlHHRIliX8VCyY9mSCgy8XBKXE9gyhouZL/iuAIr02WHoamsKhpYjGhYtGGh6pOGhBefnNRHnmyb2Oblrd4HdPu44sywgWRcx7T/Zsk7xW5r4jOHe943f0hHHrEt2djipFPzR49LatOJPsma4uuAGyT79DxOnPCS2o6Qd/hatxBMBi+2SuPcOe+IEa9tyCa7vHejD1QV/3LaXFmvmmoK3e+eO+YJSxOEKw2P+lzZcYfz0R6QHO3F89UcnHvI+BVjX4o/+iI21NsC8Bfe6Hr/fjkR1y8L88i1PlZYFc4HXvoII8IcvtY9a+Y6fVG118n0myerSDrAirLpx9P8PVw53kDZlswBxfdqP+Nx5PFXjLeSfd+Uv/AOutLRE6TkokwAAAABJRU5ErkJggubNkRU=",
+                "origin": [
+                    7,
+                    98
+                ]
+            }
+        },
+        {
+            "id": 58741179,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBLgXR+olQTkcNChoKAAAADUlIRFIAAAHnAAAAiQEDAAAALEpiiQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAATWSURBVHicxZk7juQ2EIZJE7CcKd1omPsEBryQ9kgOHTQsGQ4c+gi+ihZ7gL2CBg4MbLIynAhwT5dZfInPJtUMujCBhq2PRRZ/FovdhNTYL1Vv5QzmBpjC1kTvDTT7+9pCv94a6G4ZmuiXBrqfn0dz0jLvNnog759GXxrpSwO9N9I/Pw7T7Xk0W0lDdmiju4Vsz6L7mTbQvI0mdH2cHp5IX3DFn0TvhC0VrwE00Bwg9ZZY7AqagbA1SXdlmiOdGLsIWQU9wsffIFElID2XYAr/zSJucYkiHJfpHgf9zRQXGVW0wljsvJ/x776ZumiEsEapoZn2SaNF56KDAkw645JDUOJU0cYjDSUzyA7u2zG1PpBMDc0tTQLJiBOwWLY43Xe+8xrarUx8yewVtFuC+5LZSbno8TTiSgZzeYmmnryZIxmkS2UL8zeHIxnMiEV684dySKaroMPs0Vvn+Emp6OnWoMFKBkVYpOewwUgG6VLZEmcPIxkU4Xm605LJ09OWp4VkpHNUSrroEZ/zRT4lco+WTJYGIcgRcrSQDOoV473FH4osIBZVByeVe5RkkjTFY+fLIGipqmTmknrdE7Q6tMQ9a1fHRzr3oGR2tVEck8elgL8fyM5w9hlaTA5Jnx4le5Uj23AYWy57TPAP0uvR0inHM/Z8xYFNcgpJ62RUHHqS7K5ivhPxqQjgLZe5RqRt0dODOePlEDbRmWrM0AwVY2jFbkQFbidaj2Pi2DbOkV7wSS2T3PZUho2YUidd78gXZ0VT5Xg1g7iaONxwGjlaDn+xy2Rgk3mYnAlf79DdJ60P488JE5eT/ukebZZJ2ugXNxCe2EnaABz8IHWpOotkXughjPCdBdO0fezjepJCVOrkRxGPs0sWqLExJ3iOjaXASaOQGiTD9vlBmLBZ1ZkFg/TSioOu4ubhScylayrwQGKH9RvpSzTPwYRfi3Usdzdo8NGtVA3qlJRUtDiN7tM6kSalIuj5bk3F4B49Qe1Xf6mDfIKt4oskmvEtWosVWX7kolnR7zKsCXkq5of6nSLdMxvz1/gFh070fdCCZMEe01le05mdZos3FqrNp9PO2RJ2k6bTKcal/bFPDv0ypvObpSO9uyfUC0s7t7vfLl2SNgViYFNEG+fco7vUWcxsXrA0eA2Gxh0T0cdCHvTmNcjnQZ7kP4T0EYyD1hO0JRRRlzK+jKsP98dCRLSp/PAZx8+WcfPpyT8E/d2m/sPu5aVM0G+eIpizDAd9dVv+RX/yWiVoP3eOThxjWjp/xf7lxYgtP4KbuqmvTRrSveh8xrnJe4L07RB9JF45AF+Tk/A2zpLmn/9wlDyldu0U0FgTTkTRs9w6avBdZtN+6/0n0gqX/bGV69nJUI9Vv27ZooJtWC/LuX2MYpYzarRL90H5BFXDrzU0AbPK18F2t5CqeoaQY2df9AVPbK0lF7OssRu3Gv6rphjybLpxq+FPtVWgNbhxPdcOfr9btieMihuOubcDOztwCuQ7XUhw+PWsbyzc9KVUbM1pfYCe5ePw/sPZr5/ZYunLu/D+WjQ8NvTXCJfo9nuGxhLn5M8sSGp6b6ZP/rzkjHx7wPfSMnKRY96+WvpszJk91MiFfv3zJE2Pw3mCyouWY0emHyFVCpSs1ymBw+nU4vYCb4WQ/w/mR+9XLyx1RwAAAABJRU5ErkJggmKgkjo=",
+                "origin": [
+                    3,
+                    94
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58740352,
+            "classId": 152376,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "tvmonitor",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI7gPggIzOQdLvwohdIsQX4hLgC6f///y+9Of8ukMVYEuQXzODw7EYakPPS08UxpGLO26uGfM0GPKwB7jyylkzuLy/eWvxUQ0ZR2bkl2iPowEd5r4mrxKprJtnfcGzskEr7FjL1cUzDcinx9MATO9nPMX+YsvTnlKW/jL3LzcxB4L/n/pUyjewP5CxeysGodua/q34k7Ltt/Tn23rwTjxvrLGdaP7jFal7NvefnJO36DU9kP1Q9evJVdMreqqJvWa5Hn67rPh1eW8l9h1F8s+69mieP7++ovrzd3VJnn+WpeV/afp+KNp13LV3e7N5Kw9XhvS5ZzgJxZQ9bp7+PKsqb8DHVTNK/UjLUZulNkXnTFh45z2v5jzHHeSpT6XYlVaCnGTxd/VzWOSU0AQBTCYm+",
+                "origin": [
+                    162,
+                    91
+                ]
+            }
+        },
+        {
+            "id": 58740351,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwB0QEu/olQTkcNChoKAAAADUlIRFIAAADAAAAAyQEDAAAATx2vjAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAF5SURBVHic7dhLbsMgEADQQSxYcoNykahcK4uoztF6FB/ByywsU8iA+c1UReqiH1jybCCe8cQAAOB8A6ItDtvO9D/bI/dbV7e9uOEdQBZ0R3BujZfoJNhx9j+bycNtzVp0Gq4FEHG4DvAH7BSE4Q4SwnA0+OE40BMmTJgwYcK/hgcNlgMHV7JfHgzonQG7MeA/SUiQ/luIBD8FDX4KGsJXDw3AwM5BeE43Cq6fwWXCl+F1GF4mtGCGQf84uA3D5ZvhPgrqr8DKAfU/EUBSO9cAIhRfCmDhwHAgx2Hj4GBA1FveDNDtvxPY/iciKNc9rlj2lrTzbkG7dsWpUHZnAwlMu+IEwh00dCs+S6vkoI1WrjyKA/nLYB0FUUf3LUMVXVFEoUoIVSTUUkbXFFeZMiHKSJfRVdWERULYKgNkvqXJzDMh2gRQKet1+8Is8Uq7NZCyvn8r8LyJKBWY9bp/wTDruykgPheqtuB5U9+P52LEFHgiRkyBt8QpPgDu1lhmtQUa3AAAAABJRU5ErkJggpzYxx0=",
+                "origin": [
+                    158,
+                    87
+                ]
+            }
+        }
+    ]
+}

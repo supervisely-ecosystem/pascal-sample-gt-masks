@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 366,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58741927,
+            "classId": 152357,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "aeroplane",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLaQBzGyAwkc/T/zgFSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Bz3dHEMqZjTe8GQ65CBCNuD/WEV0dWNTbZu28s+S8ktTGY/2HH9gwGrOP9DgcKCt2ntTj739IPWJsRzyCs+3LuH/YCCy5VzCz8dYSvrubev8/wTiRcnHe54WtpM2Rvcw3LkhCqDpJrKBN1MG8klatNCWLy8hCb5av75dHEBn392ifb/tzavTk3gvZa5/OKCv1y3/SwVznLqGJqLudRtTDtnrX0nqrZ2a1V+dFP9iyOsH7kXc6xW+VPkxuWX4PNy14FzX138t8bXv7C7IVAz8fdfFstyb+aG5I9ngV5i8HT1c1nnlNAEAPkHc+0=",
+                "origin": [
+                    273,
+                    162
+                ]
+            }
+        },
+        {
+            "id": 58741926,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBmgFl/olQTkcNChoKAAAADUlIRFIAAAAzAAAAXgEDAAAAtAW+7QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFCSURBVHicXdFLasMwEAZgGUO11A2iixjrWl44lttAE+jCR6pKoDlGFHwBiSzqEJGpZkYOpcL4Y9Br+CWEaAUPW4SRqMCxP8X5qS6akbU4U88OPHsnT19xNZDzvJDXOZFw7NnvBnW2aIo1e3LvqDz5Fxa43sMbOcGIqqeS1FoeVvGeTSsPiX3FPjaN+gjs5EmtHKtHcmNwfdu0BrJDMxiMpu+TxWi67QIqb+xu4VFntzefqqyNMWBtLuBNVjvY4Xo1WsnRGg2UpPoMLJdCPtg6FUsty7w+s2YqDzbhcYuAKR9fJXHfO9oUd542xSN6FvGCTiJei7DqiiNaRaA4a3q27MzKI6tOjuLVE2soJq0fhprTaUBbkzBtMZjUoT12mEdHH/24hmU1/HVZDR0Z/nkrQtF61rgtqUcbSky+xOZYhe3+AtF+3R5L18ENAAAAAElFTkSuQmCC1P2vwg==",
+                "origin": [
+                    269,
+                    158
+                ]
+            }
+        }
+    ]
+}

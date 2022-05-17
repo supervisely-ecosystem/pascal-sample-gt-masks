@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58741248,
+            "classId": 152376,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "tvmonitor",
+            "bitmap": {
+                "data": "eJwBVwGo/olQTkcNChoKAAAADUlIRFIAAADFAAAA2AEDAAAAYb619gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAD/SURBVHic7ddBCoMwEAXQCS7sopAj5Cg5WrxZhV7EIwjddCFOM9HajEmoSFuozCwk/KeJGg0EsFANiBxNWhERkUNKJyIickjpRURE/ljuIiK/kRuTwb3kyqQHWC5XTDovLh5hkdaLRbyEk9y6N4ujQdp/2rUYHDTiCDnpK4rApNKpcC86Fdri+ka9Fk1DDLM0THxqqFERMPEHTQ+mCJj4wWugImASgqVigZKci3IqCnxZfKoyMpXIPqkiGfNiw8+wlJ7nx4SpyojFRMwkbp7fVDAv+CoumBe7VZot4j4qHMLq9FbcDrFbpSu+0Uh0nLMPJBLgVefjpzRpTitdJn4ANsFt3WMQ+IwAAAAASUVORK5CYIJZ34xv",
+                "origin": [
+                    2,
+                    117
+                ]
+            }
+        },
+        {
+            "id": 58741247,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwB8AEP/olQTkcNChoKAAAADUlIRFIAAADLAAAA4AEDAAAAl14AhQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGYSURBVHic7dhBjoMgFADQb1i4ZE5QLtIp13LRjCa9GDeYI4xHcHYsjMwH1H5AGmMmadrwNyX/KfAR2xQwmdAAORrzND0kBdtxKvRSJA4RL1So0HtQd4TqQoUKvQepI8QKFSr0QtQfoapQoecSi6i/Ew+JGWOWq2QXUI0031i5a+7EkQaAD3dVn3SI1GBT2AYl/NQAIzbb3y1ixg7V6YQaHKaDenL3xiRwclLDV0JXaL8HwPld7GQiMkwz7FPYaQZ0ZlM18gnznbBrQ6nWMEmcOf/BKruAsH9pV6n2x0eUpMIx/NLY0ihhmruanFD6xBnUdpHACSXpM2tQGrIkVJbwX0tM9jHeojtszOdZ/0tY6Rb5eBYtez8m6Tf4GnyuS6xHh2sIT9KkhDmG1HpRTUpmHofS1T+YpadrSgOk1Hha6jmnpDZI+70B20TjQtpDlqqITvuozxKLSOwjFRLfR/1+6tZmXNcDqu8ULy+lMZDWECJP3G04Qhead+9bSIKeU68hSN6EbwOBqA7307CVB//VaHSaB7sJt/J/CWtjBWN0y0UAAAAASUVORK5CYII8Idil",
+                "origin": [
+                    0,
+                    113
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 375
+    },
+    "objects": [
+        {
+            "id": 58741905,
+            "classId": 152372,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "pottedplant",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIiQGzIyAwkH6hJnwZSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5IR7ujiGVMypPbdQ9IACj+vF60pako2BEro9xzR6AjofODifWukQEjO55uMBRjtnDYHl0i69hxKNzqnoLf6s+iU8Z1Xes1jzJKHHzYJ/vX8HmmufFkpf94nTr4Ih655TzJXNnvlAKxg8Xf1c1jklNAEAKUw8yg==",
+                "origin": [
+                    348,
+                    152
+                ]
+            }
+        },
+        {
+            "id": 58741904,
+            "classId": 152371,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJwB7QES/olQTkcNChoKAAAADUlIRFIAAAB0AAAA7wEDAAAAGfVi5AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGVSURBVHic3dcxUsUgEAZgMhQpY2klV7C0491KK8nBLDgKR6CkiFkNUcL+Lw/CRMcZqfJNILshGwaEWJsVrBnHKMkza5qYieacPRHx7tyfpDF/OvcynCzYgf1tD4vDZrU4S3hJJ0/YgCm2xG51SrBfnRIc9p0SVvv2jQ4Vpxf8ij+DCfpfeQQ7sAeHH/ZU8QymN/5+3x2SCW3BDuzBATw1eq6YWj022u5ZVaw3uyM2m33FcUKJu6tYnvB0wH2jh4LnA1ZgXTAdsCl5rNhem8rumB2bnj0PYAXWYNNoOunWeK3WjVZ/7OGXXasXtKwY61E8g7t9h3i12cVfx6X1KS6l4g68rWfipiPfwT6xS+FKtjC+YMPDR+fbMU1s9xO/SLY7ijOeW7J014TQLrNAa7Di45cE0AHMtpcS7ksY30E8waYnmlGYqWzdaFXxAO4bLUPZnecWF/GP2gX8CH4CP4D1CLbcxnPzYvusLu4ezj5nPcDz0erq7OWKNlD8Jj9aRQvuGQzFB+mctwNbiM8pXsFTxS/ge6YPAre/GM7J4aUAAAAASUVORK5CYILAbeFd",
+                "origin": [
+                    127,
+                    43
+                ]
+            }
+        },
+        {
+            "id": 58741903,
+            "classId": 152370,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "bitmap": {
+                "data": "eJwBOgTF+4lQTkcNChoKAAAADUlIRFIAAAEaAAABQwEDAAAA3/xTxgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPiSURBVHic7drNjtMwEAfwRDnkaN7Ar8CRE34uJCTntq8VtA+C98Q1N4IoNflqHM/8HQ/dpiyokUBR9qd2ZmJPHLlFUbkif5gub0rf51HlBar23jc5pAbkc0h7wUdNqJUgl0FmRLn87IjO83mVwt6H9JQ/7aF2QQk1o246H5OAiqJLfAC5gJDaIusTahv4gvi93CLvEwqjHqEppjIgMi4SqAeoo8inULVFHUc9Q9H32VC/OonMeOWn30c6pKySqA7VTKMqgeJxFaqp08isn76D1HrNpFG1FmoHlSuyaRSm5x6a/9hkkFmQ30P1Us1dVMzVLPeRAYhNPiVBxadxuFb7qPLf82hMr4sHJkdj4H0O2SlltY98GlWXHl/OFyHSl9FezRc1QkO4vwLyGI3hNhtkIuQDai9lGrwIWYTMBc1f10KkJcjGyHmAphLO5fTfhtMOIRvQdNoj5AMiyQdUbpBNoXqDkJmQCqiCqFnjaEk7JWhKe0QqjUr/tCCdRtVZ5VHdC5CaUTNn0IHoxz91ejmzY3suMXILKudiQWSbgJoCRTZc9WsTPPMn1ILK84qWJw27N+0WtQnkhlqu6HIYgs5FfS48QSz0rj4tUyQgxavQ6+wnef+DLi7f05i+Tv9Hho/z5zn6ffRl+Hf6GCMW0Ijcuwx6ZhGBsfLCOzCfVo4/qQCq2OKaDxVXMKQ4KhnSDA2ToyXIcKTYq4NlaBgCxIDZ0lv4oIqPE37qx8cv/nrBEVlqptALKQHsiM8kctgTn0gNNEIVqSZC55KEbgA6FSYuggWoLyq0Io2PriglqPi8NaBlCtEQ9YdswQf0LovyE0qK6MCE91eE6Dx4BWpipN4CIoHrqxEt5u2QQQi+lByHaHuyx6LuGoSMDLmjEOwX9Bl1NGpilF4h3wYVV6Drm8rtGh1FCiE6WQ5GdLLoY1F3DTIIufuiliB7LGquQcjIUHEUEvWLO6Oj25MItTHC7ekfQKLs8G1xMZI9E60EmZshLUFKgmA1O4JgNSlKvUfkC8WQkSBUA4ZQegyh9NhrKUqP73aB9DgC6V2JQA1EiG+a/U+ok6BGgMB+oGIIbHly5CSIh8QR2shkiBcAoFaCQEgMoZAYgtu0FKG42RR2EoTiZggZivAmNEF415sgGDdFrQRBk9tuQiixWx/3w06CcNwENQKUiDtGid8P7GxPp5CToETcMUqYCKWSix4uqeQeaO+XDH+Kigfaou51SEtQKUGbdc8O0n8LuXsgczNkb4a8AG1ucPtAt0PNA4lQ0jzQFiVXIUJU3RfVbxCpFSWXKkKk74vMfVGIaedXxOpmSPR1bwn9Bl1IpubkVH+aAAAAAElFTkSuQmCC3GDuJA==",
+                "origin": [
+                    92,
+                    177
+                ]
+            }
+        },
+        {
+            "id": 58741902,
+            "classId": 152372,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "pottedplant",
+            "bitmap": {
+                "data": "eJwBDQHy/olQTkcNChoKAAAADUlIRFIAAAA1AAAAQgEDAAAAzQ8MSgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAC1SURBVHicjdHNDcIwDAVgRz6EW0boGpzISmyQjJZRwgaVOJBDlUdiu6AiJOjlq1z75adERJnk4ar61Wxq2N2s/qfcXzoR5MvQgUIVs0jIy3qwRDHVpN4gffGuLg8UEZCtB0DzIStHoEk8MMf9sGqXjI0pWJuMJxP63WHj2c8o5iiNHN/Ha5PTMbroZ5Ca5y35GaCuZqNxJP7QYRGpB/XMKjmTrhTtb/wy7Zbv6hW9TXT0Yp6UJwY2korylbpJAAAAAElFTkSuQmCCQ610dw==",
+                "origin": [
+                    322,
+                    29
+                ]
+            }
+        },
+        {
+            "id": 58741901,
+            "classId": 152372,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "pottedplant",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLCQKzJyAwk39Y3uAAptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcjw9XRxDKuYkP0hOSNiQn5Cwwp7h4H95hpfyDn/4O/4zP/1n7vCRUUG+6X/yA7Y1O+S6En8lRshlcBptY0+eUcMc0MPY87MxL+HfQQaGNC5f9+WW5sUMIFNd/VzWOSU0AQA8GzYQ",
+                "origin": [
+                    317,
+                    153
+                ]
+            }
+        },
+        {
+            "id": 58741900,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    88,
+                    25
+                ]
+            }
+        }
+    ]
+}

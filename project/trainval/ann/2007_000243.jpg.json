@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58740683,
+            "classId": 152357,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "aeroplane",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIxQOzAyAwk15o2/QZSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5OzzdHEMqZhTenGj4GEFntZECy6v3gNcNx0WP7wo0SoYs+xEpCDbQW7L1Z/K2f8Zlq3rD2EvPrj5PwOTkhLHRIE/HT0CDe4slc7Cjh0tCa42uosXZEm6rpoWaKAUflrj2NyUwB/SOrnnFJYetV6kdIpBM8X3YjDjoUMX71s7blgjm3qmiy/C08/6FouizZuZ6zW+5Srfes+8YLnuSYHyCYoKW0pcXAR+c1v/cXHb8O6fo9kS2ZyMn9MTn/3f8Mna5pCtsn3j+9T4U1qsySuiMh4AfcLg6ernss4poQkAyNhrLQ==",
+                "origin": [
+                    178,
+                    127
+                ]
+            }
+        },
+        {
+            "id": 58740682,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBjwFw/olQTkcNChoKAAAADUlIRFIAAABkAAAASAEDAAAAOkLCWgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAE3SURBVHicddNBjsMgDAVQIxYsucFwkSpcK6OJGqpZzLW4Qa/AEViyiOKxQwCzaBZVX0vtb6MC1MdjgPHsWIQQj0mnUFZSmL+k0iJrRikfHlIgtUzaJh1SqkjpLGWSlI2wKYy3XIBNY+rNYTWYbz1JtosGX13IvR2sXlU5PrM+L1lErrYeil41Vn0XkmLwan8yydP7a7F7Iu1trRh1orXeLTGwQhPoCC0NDxnhnNSHopEj7OPeDPcbJxOYPjFw6nGpLDfuP/MMRYiSStlW55pdtTo617WE1p0/uxdpasidousTTD1i6eiQYmET+ChF1cw7NPEs72hDT2H+Jv0m2/KWSQeYV+7aSKVroWazti7H6jtwFGRs1rL6lRgK4g4pG5v0CMK/y1Juki+f9YDpO8SPctMf1dZ7+gdMWbTR9CNllQAAAABJRU5ErkJggk1iq7A=",
+                "origin": [
+                    174,
+                    123
+                ]
+            }
+        }
+    ]
+}

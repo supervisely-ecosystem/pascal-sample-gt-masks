@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 366,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58741162,
+            "classId": 152357,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "aeroplane",
+            "bitmap": {
+                "data": "eJwBcgGN/olQTkcNChoKAAAADUlIRFIAAAB1AAAAkQEDAAAAxx9lawAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEaSURBVHic1dTBdcMgDABQ8TjQGyOQEbIBHqVj9GZG470u4myQ3jgkVsFgB6hbWS/tobp9I4QNMgAl3qCNEVsjOo4F05JpRVgjeo4N0/aPPSJO/8zXn4zPG8Pv1ssWm3N55Vpr39pOy6yHr51D59uTno/6tm+sfS6WxadvrBYbd4qNnzZEJxv0r8Xxd8B73MIhjrjUvNlhWDJx9TwA1o49jk2E1CiNbeMprvRe2cf6vspxy/qPIsXrS9yLZfGHi1/m8nHGZHNZbfNk4YtVZ9EZKsMRj5vnyuBBdhbrse06Nl/onC9us/ml9hZ79pU104ppecD1A9GNcw1cj8wLzxI2hDXTirAkLJiG7sL84pGwZdoQ1oQVYUkYTPInv3GAnstPcUUAAAAASUVORK5CYIISt6rK",
+                "origin": [
+                    155,
+                    107
+                ]
+            }
+        },
+        {
+            "id": 58741161,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBUgKt/YlQTkcNChoKAAAADUlIRFIAAAB9AAAAmQEDAAAAOJun8gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAH6SURBVHiczdU9bt0wDABgCR40+gABnrrlEoZ1rQA18rzlWjqKgAwZoyKLiiZWSco/Eh2YS4dqex/0KIqmaaXWZYNql8ufLdzzwiG3kO55bkH1LURlGtAyBAadDJ6BEQHSBLsEilstK8KNwyjC8A9gopJcwROV9T+FeAlJYRNdAf7IgUPkkCTAs7/bMTHQCzulyyyPvrwVcc0WOuXdb1AOcS+4UVfQxRYGjX+laq2gPjlMHAYRRhFuG0D03jOAoTFg3xeA6C6uQA03mIWg38DlPGxArxfAF8Hc59xAhoVlc4v5CpCWQcCURtX9DuqZgEr/Q6k/QWWAdWAB/Iyqmk0AD6nuEoAutW2DN04c2gkIj+BZdf4AiOHgcR+7TITLQ2J7IBPgriYfg/JxXmEL8+bh8gauT9mYRa+gLIWFra84rAA6qkcFpb1qcBjEvBTA0dsTzHoH3QCekCqwFXwAeFvqUADmbMD+oEaD4wC6Bn4FiE/vx3BAIhh3UPlpB09XuFO5bge4HaDad6iUpeLYAm7e5tkKx+pPMH8H9WfLEMwVeAR/ARSwjorZtDs46MBOKVDlgQ+myZQgVKBOkPj8PMFpwk4ijCJYEfoTzBJAlQWAu58h1qBPENnH4QRYMgEmEQYOowhWBKiQAFAhAbqFQ84taA4qNx9PjEqN/Be9HmtkPyTPaAAAAABJRU5ErkJgghST/RU=",
+                "origin": [
+                    151,
+                    103
+                ]
+            }
+        }
+    ]
+}

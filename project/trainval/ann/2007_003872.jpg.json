@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58740904,
+            "classId": 152368,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "dog",
+            "bitmap": {
+                "data": "eJwBdgGJ/olQTkcNChoKAAAADUlIRFIAAABkAAAASAEDAAAAOkLCWgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEeSURBVHicpdPNbcQgEAXgRzg4NzpYUkYO0Tpl5RCtSUfpIJRCCeQUDsjsmOFX8p6CZMmfkZkHYwNwGIZOI9fkB6UUOmRKcdI+KT3SQjJNapIm2XL/TsW7HDZSiSZmeQrWoklWnJRyeEjH2o+V/VLEj7TNa5bxQwqy0WD1XZTTjlKmic5AoYlCPEFU5YBNvpzoqO1UoXRilO4VypF21fLcD/FPxRPJSeo0mZ9Su2lH3NT0t+d5wwW+Yt4HF9hFyDV5e4GEGkw5aiotVWQOrUX6aHHTJUv/csw3lrtlvbLsNetlEqWhhKvRD7Whid5LTfAQsesDMlCKMq5YPGoFKKsNblXS08RnFbZvoP9q9GnKLmmgPIah3SQz6jICz3TdAfK4fJhNoudhAAAAAElFTkSuQmCC58ijzA==",
+                "origin": [
+                    203,
+                    172
+                ]
+            }
+        },
+        {
+            "id": 58740903,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwB/gEB/olQTkcNChoKAAAADUlIRFIAAABsAAAAUAEDAAAAxhACWAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGmSURBVHicddNRaiQhEADQEgN+eoEwXmS2vdjQbdh77FkM+djPPUIMc4CYrwgRK6V2V+tChJF5M2JVaQkA1sEwFOJojegHWsQwED8wnhIFRDopM0AeSCvXgbStnWmGLIh6z4N+1gMpXeP6ijo237Y5SOnVILJnKb4C3PbYlR8RaoIi10qyfNuJbbyECG3d1u132pl0IpGm553w2MI+HWzjQvGHk3ho3PxQ3Q3Oc6XqVjnQgVUnqXyj70wqVr++hINrTUgyqTBVBGeS6i2cd5Lah3kbZv7CV7T0cG6iOfK49FTDRDVTzJQ/LF7mrf4LdO1p/JBkHmbYu4/r7bdOszOZA6qggq0trlsE7U3Yak/39tJuI8ajF41An3Ri0rWk2jy9gkV/URfcmOZOXCD0Cq7293OARaT+73WVlTL3rX7liTbJO7WqKrozVuaDJoh7Ekn/6dROvKGKB6niiP+CXZhpQ7+t/JyyQVcyc5NF4Z5VjeWz+UzLQZMe8D3yAesi8dVzj0j8W8zQ2kgbDW/eoL+oyFQIFxOYUMCcj6CvdyN1GQUqTWz98w37svCt7lC9dwAAAABJRU5ErkJggkTw7rI=",
+                "origin": [
+                    199,
+                    168
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 334,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58741541,
+            "classId": 152360,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "boat",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKuQJzJyAwkw3Rr1IEUW4BPCEjw////S2/OvwtkMZYE+QUzODy7kQbk7PV0cQypmFN70ZavRUGgLfGMWnbmTlX3hxkFJn2HBHU0OTZrGSv8YrwqXDdJPMBr5fpJF7cw/V21hflTMOuC2lUcU5adcvgybeWmJw1/Qhgz6jvzuhxk9jLUdhgJnA39dN2vbsXbgIoTE1xua70SabzkcXqlTqX5xZh1l6tO8m+J5Zpr4mkSdFP8dUzwI/WKU5OemAt6llw9VBQU/8/RO8vy3WvvduOjL7W9P99cVpExeWdORFv4YV8pjrebHXpUrnN8vd93zn5W/eqCj9/cVwA9wuDp6ueyzimhCQCaE3Kw",
+                "origin": [
+                    341,
+                    223
+                ]
+            }
+        },
+        {
+            "id": 58741540,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBewGE/olQTkcNChoKAAAADUlIRFIAAABNAAAAcQEDAAAAqn+8JQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEjSURBVHicbdPBjcMgEAXQsXzgSAOr0Ihlt5UD2tDBlpBWUopLyJGDlckAMzBoBynJE7LJ/9gAACwZZKxXp/uYfHb6wfCnmIQ3RfeyuCqeFpe3RVDMJqPJbXA3GQzu4IW/4KVRHLxDbzRxVTwt9kaK1EFRGr0ncqNlJpcr6+//SVmCSa/YGrmZ3MiliVyuXMeNwuDBkWg8Bi+OD1wmQ59QjCY3acmNVsX6n0FKTPSKaWbrUr81U7+jbUFdXbHtXE2ieIMelZln8oZH6E9Ecetd64wiP/QwUd4VSqV5NlKNFV9Ch/jh7B4RyyK0dYF4texBTneWuBPv4/XPxB+hnCRaQVFOEmVRjCazSe4Dh3BBPKF8KDhSL5SR4MGiCw+ZK6PO0+8XBjGubLSG6PoAAAAASUVORK5CYIIOl6XQ",
+                "origin": [
+                    337,
+                    219
+                ]
+            }
+        }
+    ]
+}

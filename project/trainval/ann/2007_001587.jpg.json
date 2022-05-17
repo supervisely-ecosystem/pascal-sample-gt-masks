@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58741397,
+            "classId": 152358,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "bitmap": {
+                "data": "eJwBggF9/olQTkcNChoKAAAADUlIRFIAAABIAAAAQwEDAAAABeTRxwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEqSURBVHicjdIxTsQwEAXQH7lwaQ4Q4SNAmWJFJMQxKLgDDcWCfQRKij0IpQ/iIh1Uu+lIYTL82HFEgVa4sJ5mklHmKwDQSEI5SuZNtaZlqLVaAi42dedlZB3ZWRH5XePN8+UBmyW+1haVKabovaqZqhRlqRsYdntKYPmG81xHhJKsuePtuc4iJQEqNHMLfRqgvZIW5jTCsHOAvRphuW7EkxlxyY+JaqRa9BJ1oHZwLmqfa/MiPaBtji4arwJaFamgA+7VwUUb2E26yxqRDNUPi+y7S32pvbpv8YrS3jFxalJwTJwauQ0TW/Wx6ZS3p57nrE/gMWXdsfuWdUuVlB6A45JcwjWaoWjHFJYQE7fUvshuMpPLqe+Zxbyq/g57zp2q1nNeL/987i91P7OrsLIQLfqbAAAAAElFTkSuQmCCrfap5w==",
+                "origin": [
+                    203,
+                    256
+                ]
+            }
+        },
+        {
+            "id": 58741396,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwB+AEH/olQTkcNChoKAAAADUlIRFIAAABQAAAASwEDAAAA3c6StgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGgSURBVHichdKxbtwwDAZgyirOHa7V2qE45TEyuNZrqYBhO7jhlgB9o0JIgGTMGxTOlLEK0EHtGWJ/+mRnKVDBw2daoExSRFgDRyqLORUp5rlQM+eVE7WFdaDDG7foqPIWdWuGOjOX1HoeuKRWC/NywELGTiG+WSID9qDB21vUXjKesPewJt+i9Vz2Mtc4zTH/Eo5SI0+FOCcMnEE1W37naRZGk/deJRA10t7riKqEn7t6qiepEbRBRzL3PB0avlGR7InDxy+sCDQcdi5/AA+Gx8qlAWztQJULLEQ7KncUNi69r9zpEo2fwJ83kXr3DNZP95Gyu7uunH48RvrjHq6rVr9gQ3S3XjgK975q1MIWNTQlukt0Vb8E4Uk68CgcnhLmeRTKFAzrkCieOalveeHv7JWJOniK8+yv7Ch87ckHR8Lzd0q7Huzo/EMlMy/8mvWrTWhSQx3zM27RQsfoDxraoHg+YSILDcv/EGjJG4yBEjjKs9AEcjJC3xBG1xfqclVAVS6Qb2WEcaXFWcL1Ll6i/2DzH3bdxmHe6NJGGzea6S83QRL7L4qSJQAAAABJRU5ErkJggiN84Mw=",
+                "origin": [
+                    199,
+                    252
+                ]
+            }
+        }
+    ]
+}

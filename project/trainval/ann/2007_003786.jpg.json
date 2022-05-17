@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 281,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58740473,
+            "classId": 152362,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "bus",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtL5QJzOyAwkTSL6/IAUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOcs8XRxDKubcvbKR87CBQGtiI/fUOIUHgVuCzDa4XdYwb/ISdRI/aripTphFUbNJPubjwYOh388sMV2Wmtw74fcpR/82xdaeFKXPk7dtnFC1SJ1ZM0VFeOZJp1ed83iWTPj64Y7hxJk6S+a9OOnAJXnSJEXtdHrMOr9yy3X/z/9hnXwx3nDWowMWzbH1e6OW17299XHf1fTHcquTrP2mPlwQOLNqV95XXuYdPS8PRs9lV//ZsF9cfB7IIwyern4u65wSmgCdlmhc",
+                "origin": [
+                    173,
+                    166
+                ]
+            }
+        },
+        {
+            "id": 58740472,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLLgTifkRlIbk52KgNSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EGZHt4ujiGVMx5e80xq9VAgO0Bp15MVeMi8coZ2Xtbf3x6cZTpvdK0uANLuy9kxi2a6SmzJChDs0RskXzKJ3cVNoZaSw2vh1Ft2VszzRq+NK/+Ol2tYOXG/TdXyyeornVdqxaY7nlVSXND6gZLt0DT4Ml51sqa0WyXqyZNYU07xWSc2rizb1FWoKZBONeZqUzFSw/wBoMY5jyaBcuirohYXEZCwRNKBUpFtopvtb3yrmXb/6oFfzn3/pHltc5bGXujiHvtY7+YF2892oWr/paW2i8Byq3ZVePYHvo8JvDS6+2lN7+4hvwr/uYfKKi7UGmudIzX3sQ3ommhl1f9msgnwPV+NlNOlug+t1qzK+9+av6W45JfEsux8OLPw02+u86+v/I77mBofkbZrXDhpgVmbEZ/ZLecj68rm8S5SvfN6tPtaqICszalrqjy2z6/4v7MlpajmirAAGbwdPVzWeeU0AQANb6wMA==",
+                "origin": [
+                    169,
+                    162
+                ]
+            }
+        }
+    ]
+}

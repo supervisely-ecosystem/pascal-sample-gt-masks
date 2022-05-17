@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58741819,
+            "classId": 152360,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "boat",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI6QMzHyAwk8/Ry6oEUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOeaeLo4hFXOSExgYmQ1O/mD0Odms+ew/v8OVeoNUoBZGNrZ//xVW/bOfwTTxv3SABlvKK/mWpAQGhm9+BtcfGok8ARrB4Onq57LOKaEJABDQLnA=",
+                "origin": [
+                    306,
+                    144
+                ]
+            }
+        },
+        {
+            "id": 58741818,
+            "classId": 152371,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIcQCzIyAwkb0nUzwZSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Mh4ujiGVMxJfpAwIXED82Ergz/sLQq75Dj+MyfKMhSrcJxWuvhUAaiOwdPVz2WdU0ITAIr9ISY=",
+                "origin": [
+                    305,
+                    132
+                ]
+            }
+        },
+        {
+            "id": 58741817,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKmQKzEyAwkj/5mFgBSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5NR4ujiGVMyJPb+R97ABD8sB85ANV9guKjVuncal/C1D0lV5Q4jgD+euzEX5fCzzWDquGCpLPROc5h8R/3Bf+3n3Cp1t85MDY18mhvYwqfS9fJkmcu+sSJC0yWSXGw9ttWc+4c3Jsr7+5cPj6O3LVHVP/b5f43u0zL9K4NbJV7fWqx7Tn/bVLyvqdWkV0B0Mnq5+LuucEpoACHxR1A==",
+                "origin": [
+                    301,
+                    128
+                ]
+            }
+        }
+    ]
+}

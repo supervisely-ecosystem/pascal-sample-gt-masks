@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58742070,
+            "classId": 152357,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "aeroplane",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKKQMzDyAwkr0m4HQFSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Fh5ujiGVMxJTghIYGBkZON4kJ6QkZCwIT+hIKHmz/xGxcaP/+XZ2n79/y/f4KEg7GVkYMM0mduBhVuAmYFTgP+qgMGHDUBTGDxd/VzWOSU0AQAXXiq2",
+                "origin": [
+                    411,
+                    242
+                ]
+            }
+        },
+        {
+            "id": 58742069,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKaQCzCyAwktbzajgEptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcrI9XRxDKuao9h7kbQoQcJF/eGCi0AqX7br5f05N8DvC9yHhgMc/i+7qG9N9771xiD8h+Ux44xb2mOS32j3ingtOalSc/KQmG/tw9fM3rxe3atxZsDHT5e/heLe9ctmP3posrD4rd3zzisvzMkqvmX/7wVgbYB7ce2t9F9BaBk9XP5d1TglNAH8UTuA=",
+                "origin": [
+                    407,
+                    238
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "classes": [
+        {
+            "title": "aeroplane",
+            "shape": "bitmap",
+            "color": "#800000",
+            "geometry_config": {},
+            "id": 152357,
+            "hotkey": ""
+        },
+        {
+            "title": "bicycle",
+            "shape": "bitmap",
+            "color": "#008000",
+            "geometry_config": {},
+            "id": 152358,
+            "hotkey": ""
+        },
+        {
+            "title": "bird",
+            "shape": "bitmap",
+            "color": "#808000",
+            "geometry_config": {},
+            "id": 152359,
+            "hotkey": ""
+        },
+        {
+            "title": "boat",
+            "shape": "bitmap",
+            "color": "#000080",
+            "geometry_config": {},
+            "id": 152360,
+            "hotkey": ""
+        },
+        {
+            "title": "bottle",
+            "shape": "bitmap",
+            "color": "#800080",
+            "geometry_config": {},
+            "id": 152361,
+            "hotkey": ""
+        },
+        {
+            "title": "bus",
+            "shape": "bitmap",
+            "color": "#008080",
+            "geometry_config": {},
+            "id": 152362,
+            "hotkey": ""
+        },
+        {
+            "title": "car",
+            "shape": "bitmap",
+            "color": "#808080",
+            "geometry_config": {},
+            "id": 152363,
+            "hotkey": ""
+        },
+        {
+            "title": "cat",
+            "shape": "bitmap",
+            "color": "#400000",
+            "geometry_config": {},
+            "id": 152364,
+            "hotkey": ""
+        },
+        {
+            "title": "chair",
+            "shape": "bitmap",
+            "color": "#C00000",
+            "geometry_config": {},
+            "id": 152365,
+            "hotkey": ""
+        },
+        {
+            "title": "cow",
+            "shape": "bitmap",
+            "color": "#408000",
+            "geometry_config": {},
+            "id": 152366,
+            "hotkey": ""
+        },
+        {
+            "title": "diningtable",
+            "shape": "bitmap",
+            "color": "#C08000",
+            "geometry_config": {},
+            "id": 152367,
+            "hotkey": ""
+        },
+        {
+            "title": "dog",
+            "shape": "bitmap",
+            "color": "#400080",
+            "geometry_config": {},
+            "id": 152368,
+            "hotkey": ""
+        },
+        {
+            "title": "horse",
+            "shape": "bitmap",
+            "color": "#C00080",
+            "geometry_config": {},
+            "id": 152369,
+            "hotkey": ""
+        },
+        {
+            "title": "motorbike",
+            "shape": "bitmap",
+            "color": "#408080",
+            "geometry_config": {},
+            "id": 152370,
+            "hotkey": ""
+        },
+        {
+            "title": "neutral",
+            "shape": "bitmap",
+            "color": "#E0E0C0",
+            "geometry_config": {},
+            "id": 152356,
+            "hotkey": ""
+        },
+        {
+            "title": "person",
+            "shape": "bitmap",
+            "color": "#C08080",
+            "geometry_config": {},
+            "id": 152371,
+            "hotkey": ""
+        },
+        {
+            "title": "pottedplant",
+            "shape": "bitmap",
+            "color": "#004000",
+            "geometry_config": {},
+            "id": 152372,
+            "hotkey": ""
+        },
+        {
+            "title": "sheep",
+            "shape": "bitmap",
+            "color": "#804000",
+            "geometry_config": {},
+            "id": 152373,
+            "hotkey": ""
+        },
+        {
+            "title": "sofa",
+            "shape": "bitmap",
+            "color": "#00C000",
+            "geometry_config": {},
+            "id": 152374,
+            "hotkey": ""
+        },
+        {
+            "title": "train",
+            "shape": "bitmap",
+            "color": "#80C000",
+            "geometry_config": {},
+            "id": 152375,
+            "hotkey": ""
+        },
+        {
+            "title": "tvmonitor",
+            "shape": "bitmap",
+            "color": "#004080",
+            "geometry_config": {},
+            "id": 152376,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

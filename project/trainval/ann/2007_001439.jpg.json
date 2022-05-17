@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 375
+    },
+    "objects": [
+        {
+            "id": 58740438,
+            "classId": 152365,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "chair",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJ2QKzDyAwk2QVnTgdSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5ER4ujiGVMw5e2wjb4MBj8tFZTmdHhfPRpeDST2TBDWCFXr4Hy5ouPR59n+B0K8NpYoWLtzfpLzOxC9ousNRwbzfOU9BeHKySc4GVWcmti8RHGr818Ss2LkWOXcIRwZsZent7l0CtIPB09XPZZ1TQhMAp5M4qA==",
+                "origin": [
+                    198,
+                    287
+                ]
+            }
+        },
+        {
+            "id": 58740437,
+            "classId": 152367,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "diningtable",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgLAeytzIyA8l5kbrbgBRbgE+IK5D+////0pvz7wJZjCVBfsEMDs9upAE5Fz1dHEMq5ry9dJD3kAFP68NFMhZlLX2TLp7K6DnEIWOpcGfFqoYl24Tv18uvfm+78tTsZd8uff5ycq/OQgehie4r9t2xDYl/J7ZKnl/m69Okr0rzI/5GKPyvrGx/dXpvVd3a2vcL11+aJ5/x2vq0xfXfpy/sEJ5Rmq93+ME1I7HLq/lrDXfKbXjtGt0Wrn/KaNP72+1+svfYqr4G6S+O17/qvF75n3hA+zOWY6/2N1ZOkbe3PffdYUHd/KAW8f0stR2PP1bYyPUfR6d+dNxnkGiVke8xnNcL9ByDp6ufyzqnhCYA2LCGcw==",
+                "origin": [
+                    0,
+                    319
+                ]
+            }
+        },
+        {
+            "id": 58740436,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBCgL1/YlQTkcNChoKAAAADUlIRFIAAAF3AAAARgEDAAAADV9GAQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGySURBVHic3ZZLboQwDIaNWLDMDchFWrhWF5WYg41UjkJvEKmLYYFInQcDeTgkI9FFvZlB+X6ThD+OAYioJcZKjYbRKF522TyTJkr5JZe3k8pdguEf2RMyvKgLefObEfwVvs7n26v5enmB/xFl/GO5lpcBL+ckfy/k38r4tZAf/54nDuh/5Xkhz0p5ooBdxtsJbjw/421JzuVVHZ8PfHvC66IvLM9DvnF5hicWBRN0jODdgi3lqKc0depD9rcuzTO9WK7uoeEOMEDn33gur9Jj9HgPyXcBn8D97XN4trlvwDd8CfgI7eXwNr0VCJiB+cf1yLODuS2PNwzJV3t6/SDAh0GVsNv2lztnp8LPHPH6zjvp1cgSKzY7z/2j2YB2BsFjA3PzB2UoePJ95OXGSlE+lt44Y4zyQ7yQojPcPLXRN1Qj4gsqww/hTtgY3CbL8GR60Jt0MKnhg21wMh67Ms2zZNvlCDSfSg+mF912r9IH9qSra/YPXcnJN1ok2FOAfGC0pEB+n6cH4wwtyO1he7to3yBnAknd2DHBSviYEqwJo0UCq11+h6+ihZL0KorSY0xl+C8stYGEgtoCPwAAAABJRU5ErkJgguu2830=",
+                "origin": [
+                    0,
+                    283
+                ]
+            }
+        }
+    ]
+}

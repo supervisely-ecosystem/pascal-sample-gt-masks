@@ -1,0 +1,136 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58741040,
+            "classId": 152371,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKaQKzLyAwkOe0vLAZSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5BR4ujiGVMxJvbCR94ACD4tDtMgUucZAid6eaYFGTKqsj5QrlCRbn7HU9bRmTN3JJCZYt3zHP5Y77Ocb17smrVH94nnsVewGP0c3t9SNRrdkjnXP7njI4XIzxKw1ZZLF9kKppyaHpi8pcTveV/Vmd0UN7+RLT1ifpvlt+lfuYAC0m8HT1c9lnVNCEwBiNkj0",
+                "origin": [
+                    121,
+                    63
+                ]
+            }
+        },
+        {
+            "id": 58741039,
+            "classId": 152376,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "tvmonitor",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKpQBzPyAwkTwfPdgdSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5LR4ujiGVMw5e8WWr0GBh/VBuoyMbdP1gscZFSb9jwQlJDlWbHWK/OPp8+b2PgcvzwUOjypyXgb1Mf9alGuqelL7Jv8TkczAJT/TJRd6TlzgHjjxkDRv/9UQp0rlhbOUtv6Ze4v7Y+e9STtk2wVTX/PwlRY3LYs4k3Wuyf3Mv/1FVoEsv48IO/hvP8j12PP/1pX9VZ5A9zB4uvq5rHNKaAIAhUJWFw==",
+                "origin": [
+                    252,
+                    109
+                ]
+            }
+        },
+        {
+            "id": 58741038,
+            "classId": 152376,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "tvmonitor",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJKQCzByAwkl2bs9QJSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Lh6ujiGVMxJfpCQkJaQsOF//T8G5sNAtfINJ/kTPrHP+NPs8o958v/EFNsJOQ5K/AIKbw9qCaqciJswU4znj8NuCYkZ8gYMDPy/g9+l7ir/AjSQwdPVz2WdU0ITAMK0NnE=",
+                "origin": [
+                    165,
+                    59
+                ]
+            }
+        },
+        {
+            "id": 58741037,
+            "classId": 152376,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "tvmonitor",
+            "bitmap": {
+                "data": "eJwBbgGR/olQTkcNChoKAAAADUlIRFIAAAB8AAAAfwEDAAAAF0Q0UwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEWSURBVHictdUxDoQgEAXQMRZ26xE8CtfaDo/mUTgCpYVhdlkZhD8F2Yg0hpefj4kIRPQmGHZF2AGYV4QdASKMkS9wOR8ieARW4BGKyMgQScAKPEKOTAyRDKzAI4QT5gzsEALCGSkhIPwiC0Okghhpg+kAtjv4czfcAie74RaMHWB6AuYOsHQA0wHsE8D/g+pYENRnUB9b7UL9vywIE8KAQM3E2AS1ioK5CapUv6lFMAhV60bQuhG0rgStv/OyaFUHaKgPcuajvB3iSDePRbhaPR7cDq4Hgat1I2hdCVrTPLcGAWk9BKTVC0iry2DqVXNrnqfWcMFQLyKt5T1s6kVi61EuElt3Axe1m30JZLepmpMhGK/0/AA2PKJDOewymgAAAABJRU5ErkJggld1jBo=",
+                "origin": [
+                    376,
+                    104
+                ]
+            }
+        },
+        {
+            "id": 58741036,
+            "classId": 152365,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "chair",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKqQCzDyAwk76g+AXHYAnxCXIH0////l96cfxfIYiwJ8gtmcHh2Iw3IifR0cQypmON7diPvAQUB58DJIuFGTIsNpCR1F6ewnBLhaDd2XFTJ+qk2oIJZo6Yt5W7N13sp8mkzTySqrF96UVjdVrBE5hvLf5fgQ/yblnkuzrxSknX6VeD/TwYPmKtNPfc3CBS9BVrC4Onq57LOKaEJAAcrPOo=",
+                "origin": [
+                    111,
+                    84
+                ]
+            }
+        },
+        {
+            "id": 58741035,
+            "classId": 152371,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJwBeAGH/olQTkcNChoKAAAADUlIRFIAAAByAAAAjQEDAAAAUde88gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEgSURBVHictdRBsoMgDAZgHBcsOYJH4WhwNI7iEVxm4ZjXigr5KaZv2rr7hkhiCBqTn8AcTXkmZp4rP5Z5KRweZCp2T6/F/mku3lkS2OxUZ6sThmwCXwkyeQOfCYfTR4Kx51mUc32h65lEuVdBaA8Oill6+NDjj22764yO4AReZP25wZVXMKOj6N+R4GYdLc/jmCi0B09gB7bgETyADboUAAPV8QR2vfXX+fCAHbikIyiP5Hb5PHEeLISX7aPcHq9Hkt06iu/eXiN9/h0ceFLsFV/lRWgmgXPAzXTvAVW39gDLMuDWEL+J7rZewQRexCy1nt+wh/fvTC8coN5vm79o+mf8ppg1R8Wpdag9K14UkzyvxqviTc5LY9YcG8sblP4AOQLMre5mhEYAAAAASUVORK5CYILCgKU6",
+                "origin": [
+                    109,
+                    192
+                ]
+            }
+        },
+        {
+            "id": 58741034,
+            "classId": 152356,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:47.601Z",
+            "updatedAt": "2022-05-17T10:13:47.601Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    20,
+                    50
+                ]
+            }
+        }
+    ]
+}
