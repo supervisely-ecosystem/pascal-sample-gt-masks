@@ -15,9 +15,9 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/pascal_sample_gt)
-[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/pascal_sample_gt&counter=views&label=views)](https://supervise.ly)
-[![downloads](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/pascal_sample_gt&counter=downloads&label=downloads)](https://supervise.ly)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/pascal-sample-gt-masks)
+[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/pascal-sample-gt-masks&counter=views&label=views)](https://supervise.ly)
+[![downloads](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/pascal-sample-gt-masks&counter=downloads&label=downloads)](https://supervise.ly)
 </div>
 
 
@@ -31,7 +31,7 @@
 
 ## Download
 
-Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/gKL8sHhWkAsQ1z7/download) (130,6 MB).
+Direct download: [zip archive](https://cloud.enterprise.supervise.ly/remote.php/webdav/apps/pascalvoc-sample-projects/pascal_sample_gt_masks.zip) (65,7 MB).
 
 ## Statistics
 
