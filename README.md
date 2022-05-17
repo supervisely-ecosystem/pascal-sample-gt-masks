@@ -26,7 +26,7 @@
 
 `pascal_sample_gt_masks` is a sample project with the total of 726 images from PascalVOC and 4 datasets: `train`, `val`, `test` (and mixed `trainval`) subsets.
 
-![](https://i.imgur.com/zTgUcxu.png)
+![](https://i.imgur.com/xFO81I1.png)
 
 
 ## Download
