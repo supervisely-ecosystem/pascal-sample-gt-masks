@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/NJLmeWi.png" width="100"/> 
 
-# PascalVOC Ground Truth Sample (Masks)
+# PascalVOC Ground Truth Masks (Sample)
 
 <p align="center">
 
