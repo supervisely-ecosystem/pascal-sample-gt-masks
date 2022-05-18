@@ -1,5 +1,5 @@
 {
-  "name": "PascalVOC Ground Truth Masks (Sample)",
+  "name": "PascalVOC GT Masks (Sample)",
   "description": "726 sample ground truth images from PascalVOC dataset",
   "type": "project",
   "categories": [
@@ -8,5 +8,5 @@
     "project"
   ],
   "icon": "https://i.imgur.com/IH0J08n.png",
-  "icon_cover": true
+  "icon_cover": false
 }
