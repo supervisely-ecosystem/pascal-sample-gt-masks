@@ -1,6 +1,6 @@
 {
   "name": "PascalVOC GT Masks (Sample)",
-  "description": "726 sample ground truth images from PascalVOC dataset",
+  "description": "726 sample gt-labeled images",
   "type": "project",
   "categories": [
     "import",
