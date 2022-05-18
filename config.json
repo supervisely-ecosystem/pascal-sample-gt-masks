@@ -8,5 +8,6 @@
     "project"
   ],
   "icon": "https://i.imgur.com/IH0J08n.png",
-  "icon_cover": false
+  "icon_cover": false,
+  "icon_background": "#FFFFFF"
 }
