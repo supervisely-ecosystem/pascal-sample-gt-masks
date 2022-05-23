@@ -31,7 +31,7 @@
 
 ## Download
 
-Direct download: [zip archive](https://cloud.enterprise.supervise.ly/remote.php/webdav/apps/pascalvoc-sample-projects/pascal_sample_gt_masks.zip) (65,7 MB).
+Direct download: [zip archive](https://cloud.enterprise.supervise.ly/f/906665) (65,7 MB).
 
 ## Statistics
 
