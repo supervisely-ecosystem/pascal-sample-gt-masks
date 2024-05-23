@@ -31,7 +31,7 @@
 
 ## Download
 
-Direct download: [zip archive](https://cloud.enterprise.supervise.ly/f/906665) (65,7 MB).
+Direct download: [zip archive](https://github.com/supervisely-ecosystem/pascal-sample-gt-masks/releases/download/v1.0.0/project.zip) (65,7 MB).
 
 ## Statistics
 
